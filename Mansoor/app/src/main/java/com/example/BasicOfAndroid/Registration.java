@@ -1,14 +1,12 @@
-package com.example.mansoor;
+package com.example.BasicOfAndroid;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.provider.ContactsContract;
 import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
-import android.widget.TextView;
 
 public class Registration extends AppCompatActivity {
 

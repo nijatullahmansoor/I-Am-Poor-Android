@@ -1,4 +1,4 @@
-package com.example.mansoor;
+package com.example.BasicOfAndroid;
 
 import org.junit.Test;
 

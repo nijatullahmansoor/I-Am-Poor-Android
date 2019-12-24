@@ -1,4 +1,4 @@
-package com.example.mansoor;
+package com.example.BasicOfAndroid;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.example.mansoor", appContext.getPackageName());
+        assertEquals("com.example.BasicOfAndroid", appContext.getPackageName());
     }
 }

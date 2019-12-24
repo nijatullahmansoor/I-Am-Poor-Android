@@ -1,6 +1,5 @@
-package com.example.mansoor;
+package com.example.BasicOfAndroid;
 
-import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
